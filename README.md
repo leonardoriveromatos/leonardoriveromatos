@@ -23,9 +23,3 @@ I'm [Leonardo](https://github.com/leonardoriveromatos)！I'm a software engineer
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/ljrmatos/) 👨🏻‍💻
  - Shoot Me an [Email](leonardojrmatosdev@gmail.com) 💌
-
-
-
-
-
- ⭐️ From [Gabo](https://github.com/gaboDev05)
